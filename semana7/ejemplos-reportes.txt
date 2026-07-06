@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "servicio publico",
+  "descripcion": "sin servicio de ahua"
+}
+
+Ejemplo 2:
+{
+  "tipo": "medio ambiente",
+  "descripcion": "contaminacion del rio"
+}

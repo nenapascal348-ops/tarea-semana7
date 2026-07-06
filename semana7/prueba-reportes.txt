@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "tipo": "servicios publicos",
+    "descripcion": "sin servicio de agua"
+  }
+]
